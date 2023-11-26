@@ -12,13 +12,10 @@ TypeScript là bước quan trọng cho một nhà phát triển ở mức độ
 4. [Testing và Debugging](#testing-và-debugging)
    - [Unit Testing with TypeScript](#8-unit-testing-with-typescript)
    - [Debugging](#9-debugging)
-5. [Tài liệu và Cộng đồng](#tài-liệu-và-cộng-đồng)
-   - [Official TypeScript Deep Dive](#10-official-typescript-deep-dive)
-   - [Stack Overflow và TypeScript Community](#11-stack-overflow-và-typescript-community)
-6. [Performance và Optimization](#performance-và-optimization)
+5. [Performance và Optimization](#performance-và-optimization)
    - [TypeScript Compiler Options](#12-typescript-compiler-options)
    - [Code Splitting và Lazy Loading](#13-code-splitting-và-lazy-loading)
-7. [Mentorship và Chia sẻ kiến thức](#mentorship-và-chia-sẻ-kiến-thức)
+6. [Mentorship và Chia sẻ kiến thức](#mentorship-và-chia-sẻ-kiến-thức)
    - [Mentorship](#14-mentorship)
    - [Sharing Knowledge](#15-sharing-knowledge)
 
@@ -73,18 +70,6 @@ TypeScript là bước quan trọng cho một nhà phát triển ở mức độ
 #### 2. **Debugging:**
 
 - Nắm vững cách sử dụng công cụ debug trong TypeScript để phát hiện và sửa lỗi.
-
----
-
-## Tài liệu và Cộng đồng
-
-#### 1. **Official TypeScript Deep Dive:**
-
-- Tài liệu chi tiết hơn về TypeScript.
-
-#### 2. **Stack Overflow và TypeScript Community:**
-
-- Tìm kiếm, hỏi và chia sẻ kiến thức với cộng đồng TypeScript.
 
 ---
 
