@@ -1,4 +1,4 @@
-### Cụ thể về các khái niệm cú pháp cơ bản trong TypeScript:
+Cụ thể về các khái niệm cú pháp cơ bản trong TypeScript:
 
 ---
 
@@ -43,7 +43,7 @@ let boolVar: boolean = true;
 function add(a: number, b: number): number {
   return a + b;
 }
-// Hàm add nhận vào hai tham số số và trả về một số
+// Hàm add nhận vào hai tham số có kiểu dữ liệu là số và trả về một số
 ```
 
 #### b. Kiểu trả về có thể là kiểu dữ liệu phức tạp:
@@ -109,3 +109,5 @@ let point: Point = {
 - `let` và `const` để khai báo biến và hằng số.
 - Hàm được khai báo với kiểu đầu vào và kiểu trả về.
 - Interface và Type giúp mô tả cấu trúc dữ liệu.
+
+---

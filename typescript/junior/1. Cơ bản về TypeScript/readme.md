@@ -1,4 +1,4 @@
-#### Hãy bắt đầu với các khái niệm cơ bản về TypeScript:
+Hãy bắt đầu với các khái niệm cơ bản về TypeScript:
 
 ---
 

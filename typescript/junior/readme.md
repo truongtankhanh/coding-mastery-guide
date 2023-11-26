@@ -17,8 +17,6 @@ Việc bắt đầu với TypeScript có thể gặp một số khó khăn nhưn
    - [Decorators](#3-decorators)
 5. [Tài liệu và Tài nguyên Học tập](#tài-liệu-và-tài-nguyên-học-tập)
    - [Handbook của TypeScript](#1-handbook-của-typescript)
-   - [Courses và Tutorials](#2-courses-và-tutorials)
-   - [Thực Hành](#3-thực-hành)
 
 <h2 style="color:#FF8C00; font-weight: bold;">Nội Dung</h2>
 
@@ -95,17 +93,9 @@ Việc bắt đầu với TypeScript có thể gặp một số khó khăn nhưn
 ### 1. Handbook của TypeScript
 
 - Tài liệu chính thức từ TypeScript.
-
----
-
-### 2. Courses và Tutorials
-
-- Có nhiều khóa học trực tuyến và hướng dẫn miễn phí để học TypeScript.
-
----
-
-### 3. Thực Hành
-
-- Việc xây dựng các dự án nhỏ và áp dụng kiến thức là cách tốt nhất để hiểu sâu hơn.
+  - https://www.typescripttutorial.net/
+  - https://learntypescript.dev/
+  - https://ultimatecourses.com/blog/category/typescript/
+  - https://www.typescriptlang.org/docs/handbook/
 
 ---

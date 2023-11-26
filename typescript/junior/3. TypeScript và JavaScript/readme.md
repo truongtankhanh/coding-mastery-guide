@@ -1,4 +1,4 @@
-### Cụ thể về việc sử dụng TypeScript Compiler và tích hợp TypeScript vào các dự án JavaScript:
+Cụ thể về việc sử dụng TypeScript Compiler và tích hợp TypeScript vào các dự án JavaScript:
 
 ---
 
@@ -11,7 +11,7 @@
 
 #### Cách sử dụng TypeScript Compiler để chuyển đổi mã TypeScript sang JavaScript:
 
-TypeScript Compiler (`tsc`) là công cụ được cung cấp bởi TypeScript để biên dịch mã nguồn TypeScript thành mã JavaScript.
+- TypeScript Compiler (`tsc`) là công cụ được cung cấp bởi TypeScript để biên dịch mã nguồn TypeScript thành mã JavaScript.
 
 #### _Ví dụ:_
 

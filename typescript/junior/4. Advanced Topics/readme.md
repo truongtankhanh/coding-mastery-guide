@@ -1,4 +1,4 @@
-#### Chi tiết về các chủ đề nâng cao trong TypeScript:
+Chi tiết về các chủ đề nâng cao trong TypeScript:
 
 ---
 
@@ -25,6 +25,8 @@ function createArray<T>(value: T, length: number): T[] {
 let newArray = createArray<string>("hello", 5);
 // Kết quả: ["hello", "hello", "hello", "hello", "hello"]
 ```
+
+---
 
 ### 2. Union và Intersection Types:
 
@@ -69,11 +71,17 @@ let loggerPrinter: LoggerPrinter = {
 };
 ```
 
+---
+
 ### 3. Decorators:
 
 #### **Cách sử dụng decorators trong TypeScript:**
 
 - Decorators là một tính năng mạnh mẽ cho phép chúng ta thêm các logic hoặc thay đổi behavior của class, method, property hoặc parameter.
+
+#### _Tài liệu:_
+
+- https://www.typescriptlang.org/docs/handbook/decorators.html
 
 #### _Ví dụ:_
 
