@@ -1,19 +1,28 @@
-Lập trình có thể được tổ chức theo các cấp độ khác nhau:
+Chào mừng đến với "Coding Mastery Guide"!
 
-### Junior Developer:
+Đây là ngôi nhà của những người tìm kiếm hướng dẫn lập trình tinh tế, phù hợp với mọi cấp độ từ Junior đến Tech Lead. Với các chuyên đề từ cơ bản đến nâng cao, chúng tôi tập trung vào việc hướng dẫn, truyền cảm hứng và cung cấp kiến thức chi tiết về TypeScript, TypeORM, NestJS và AWS - những công nghệ hàng đầu trong ngành công nghiệp phần mềm ngày nay.
 
-Tài liệu cho lập trình viên Junior tập trung vào cơ bản về ngôn ngữ lập trình, cấu trúc dữ liệu và thuật toán. Họ học cách xây dựng các ứng dụng nhỏ, làm quen với ngôn ngữ và các thư viện cơ bản.
+### Điều gì bạn có thể tìm thấy ở đây:
 
-### Mid-level Developer:
+#### **Các Cấp Độ Lập Trình Viên:**
 
-Lập trình viên ở cấp độ trung cấp cần tài liệu về thiết kế ứng dụng, kiến trúc phần mềm và các phương pháp tối ưu hóa mã nguồn. Họ cũng có thể cần hướng dẫn về các kỹ thuật kiểm thử phức tạp và quản lý mã nguồn.
+- **Junior Developer:** Được hướng dẫn từ cơ bản về TypeScript và NestJS, học cách bắt đầu xây dựng ứng dụng và làm việc với TypeORM để quản lý cơ sở dữ liệu.
+- **Mid-level Developer:** Hướng dẫn về xây dựng kiến trúc ứng dụng với NestJS, sử dụng TypeScript một cách linh hoạt và sâu sắc hơn, cùng với các kỹ thuật tiên tiến trong TypeORM.
+- **Senior Developer:** Tận dụng sức mạnh của TypeScript với các tính năng cao cấp như generics và decorators, kết hợp với NestJS để tạo ra các ứng dụng phức tạp, cùng với quản lý cơ sở dữ liệu hiệu quả bằng TypeORM.
 
-### Senior Developer:
+- **Tech Lead:** Hướng dẫn về việc xây dựng kiến trúc hệ thống toàn diện với NestJS và AWS, áp dụng các best practice và quản lý dự án phần mềm tốt nhất.
 
-Tài liệu cho lập trình viên Senior tập trung vào các nguyên tắc thiết kế, kiến trúc hệ thống, và việc áp dụng các mô hình phát triển phần mềm cao cấp. Họ cũng có thể cần tài liệu về quản lý dự án và cách thức truyền đạt kiến thức cho các nhóm phát triển.
+#### **Các Công Nghệ Chính:**
 
-### Tech Lead:
+- **TypeScript:** Học cách sử dụng TypeScript để tối ưu hóa mã nguồn, kiểm tra lỗi và tạo mã dễ bảo trì hơn.
+- **TypeORM:** Hướng dẫn về quản lý cơ sở dữ liệu thông qua TypeScript, cung cấp các kỹ thuật tiên tiến để tương tác với cơ sở dữ liệu.
 
-Tech Lead cần tài liệu về lãnh đạo, quản lý dự án, và cách thiết lập quy trình làm việc hiệu quả cho đội ngũ. Ngoài ra, họ cũng cần tài liệu về kiến thức sâu rộng về ngôn ngữ, kiến trúc hệ thống, và quản lý sản phẩm.
+- **NestJS:** Khám phá cách xây dựng ứng dụng server-side với framework NodeJS mạnh mẽ, sử dụng TypeScript để tạo ra mã linh hoạt và dễ bảo trì.
 
-"Tài liệu này cung cấp kiến thức phong phú, từ cơ bản đến nâng cao, phù hợp với mọi cấp độ lập trình viên để phát triển kỹ năng và thành công trong sự nghiệp lập trình."
+- **AWS:** Tận dụng dịch vụ đám mây hàng đầu để xây dựng, triển khai và quản lý các ứng dụng trực tuyến hiệu quả.
+
+Hãy cùng chúng tôi trải nghiệm hành trình học tập và thành thạo các công nghệ này. Tại đây, kiến thức sẽ không chỉ là kiến thức, mà là hành trang để bạn trở thành một lập trình viên với sức mạnh và sự tự tin trong mọi dự án.
+
+Hãy bắt đầu hành trình của bạn với chúng tôi!
+
+---
