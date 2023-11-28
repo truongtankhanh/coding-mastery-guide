@@ -1,8 +1,23 @@
 Advanced Entity Configurations trong TypeORM là một chủ đề phức tạp, nhưng rất hữu ích khi bạn muốn xây dựng cấu trúc dữ liệu phức tạp và quản lý kế thừa giữa các entities. Hãy xem xét các khái niệm về Inheritance, Composite Columns và Embedded Entities, cũng như Entity Inheritance Strategies, và làm thế nào để áp dụng chúng trong NestJS.
 
+---
+
+1. [Inheritance trong TypeORM](#inheritance-trong-typeorm)
+   - [Loại Kế Thừa](#1-loại-kế-thừa)
+   - [Ví dụ về Inheritance](#2-ví-dụ-về-inheritance)
+2. [Composite Columns và Embedded Entities](#composite-columns-và-embedded-entities)
+   - [Composite Columns](#1-composite-columns)
+   - [Embedded Entities](#2-embedded-entities)
+   - [Ví dụ về Composite Columns và Embedded Entities](#3-ví-dụ-về-composite-columns-và-embedded-entities)
+3. [Entity Inheritance Strategies](#entity-inheritance-strategies)
+   - [Lựa Chọn Chiến Lược Kế Thừa](#1-lựa-chọn-chiến-lược-kế-thừa)
+   - [Ví dụ về Entity Inheritance Strategies](#2-ví-dụ-về-entity-inheritance-strategies)
+
+---
+
 ### Inheritance trong TypeORM:
 
-#### 1. Loại Kế Thừa:
+#### **1. Loại Kế Thừa:**
 
 TypeORM hỗ trợ ba loại kế thừa chính:
 
@@ -10,7 +25,9 @@ TypeORM hỗ trợ ba loại kế thừa chính:
 - Class Table Inheritance: Mỗi class con có một bảng riêng.
 - Table Per Concrete Class: Mỗi class có bảng riêng, không có bảng cho class cha.
 
-#### 2. Ví dụ về Inheritance:
+---
+
+#### **2. Ví dụ về Inheritance:**
 
 ```typescript
 // vehicle.entity.ts
@@ -50,17 +67,23 @@ export class Bike extends Vehicle {
 }
 ```
 
+---
+
 ### Composite Columns và Embedded Entities:
 
-#### 1. Composite Columns:
+#### **1. Composite Columns:**
 
 Composite Columns là việc kết hợp nhiều trường thành một trường duy nhất trong cơ sở dữ liệu.
 
-#### 2. Embedded Entities:
+---
 
-Embedded Entities là cách sử dụng một entity nhúng vào một entity khác để tạo cấu trúc dữ liệu phức tạp hơn.
+#### **2. Embedded Entities:**
 
-#### 3. Ví dụ về Composite Columns và Embedded Entities:
+- Embedded Entities là cách sử dụng một entity nhúng vào một entity khác để tạo cấu trúc dữ liệu phức tạp hơn.
+
+---
+
+#### **3. Ví dụ về Composite Columns và Embedded Entities:**
 
 ```typescript
 // address.entity.ts
@@ -95,13 +118,17 @@ export class User {
 }
 ```
 
+---
+
 ### Entity Inheritance Strategies:
 
-#### 1. Lựa Chọn Chiến Lược Kế Thừa:
+#### **1. Lựa Chọn Chiến Lược Kế Thừa:**
 
-Lựa chọn chiến lược phù hợp với cấu trúc dữ liệu và yêu cầu của ứng dụng.
+- Lựa chọn chiến lược phù hợp với cấu trúc dữ liệu và yêu cầu của ứng dụng.
 
-#### 2. Ví dụ về Entity Inheritance Strategies:
+---
+
+#### **2. Ví dụ về Entity Inheritance Strategies:**
 
 ```typescript
 // animal.entity.ts
@@ -136,4 +163,8 @@ export class Dog extends Animal {
 }
 ```
 
+---
+
 Thông qua các ví dụ trên, bạn có thể áp dụng Inheritance, Composite Columns và Embedded Entities trong TypeORM để tạo cấu trúc dữ liệu phức tạp hơn và lựa chọn chiến lược kế thừa phù hợp với nhu cầu của ứng dụng của bạn trong NestJS.
+
+---

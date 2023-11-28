@@ -1,16 +1,33 @@
 Tăng cường khả năng mở rộng và thiết kế kiến trúc phù hợp là những yếu tố quan trọng trong việc xây dựng ứng dụng. Hãy xem cách triển khai Sharding, Replication và kiến trúc Microservices cùng với TypeORM trong NestJS để nâng cao tính mở rộng và hiểu các mô hình cơ sở dữ liệu phù hợp.
 
+---
+
+1. [Sharding và Replication](#sharding-và-replication)
+   - [Sharding](#1-sharding)
+   - [Replication](#2-replication)
+   - [Ví dụ về Sharding và Replication](#3-ví-dụ-về-sharding-và-replication)
+2. [Microservices và Database Patterns](#microservices-và-database-patterns)
+   - [Microservices](#1-microservices)
+   - [Database Patterns](#2-database-patterns)
+   - [Ví dụ về Microservices và Database Patterns](#3-ví-dụ-về-microservices-và-database-patterns)
+
+---
+
 ### Sharding và Replication:
 
-#### 1. Sharding:
+#### **1. Sharding:**
 
-Sharding là việc chia nhỏ dữ liệu và phân phối chúng trên nhiều máy chủ để giảm tải cho từng máy chủ và tăng khả năng mở rộng.
+- Sharding là việc chia nhỏ dữ liệu và phân phối chúng trên nhiều máy chủ để giảm tải cho từng máy chủ và tăng khả năng mở rộng.
 
-#### 2. Replication:
+---
 
-Replication là quá trình sao chép và duy trì một bản sao dữ liệu trên nhiều node khác nhau để tăng khả năng sẵn sàng và độ tin cậy.
+#### **2. Replication:**
 
-#### 3. Ví dụ về Sharding và Replication:
+- Replication là quá trình sao chép và duy trì một bản sao dữ liệu trên nhiều node khác nhau để tăng khả năng sẵn sàng và độ tin cậy.
+
+---
+
+#### **3. Ví dụ về Sharding và Replication:**
 
 Sharding:
 
@@ -52,17 +69,23 @@ export class ReplicationService {
 }
 ```
 
+---
+
 ### Microservices và Database Patterns:
 
-#### 1. Microservices:
+#### **1. Microservices:**
 
-Kiến trúc Microservices chia ứng dụng thành các dịch vụ nhỏ, mỗi dịch vụ có thể có cơ sở dữ liệu riêng để tăng khả năng linh hoạt và phát triển độc lập.
+- Kiến trúc Microservices chia ứng dụng thành các dịch vụ nhỏ, mỗi dịch vụ có thể có cơ sở dữ liệu riêng để tăng khả năng linh hoạt và phát triển độc lập.
 
-#### 2. Database Patterns:
+---
 
-Mô hình cơ sở dữ liệu như Database per Service, Shared Database, API Composition, CQRS (Command Query Responsibility Segregation) là những mô hình phổ biến trong kiến trúc Microservices.
+#### **2. Database Patterns:**
 
-#### 3. Ví dụ về Microservices và Database Patterns:
+- Mô hình cơ sở dữ liệu như Database per Service, Shared Database, API Composition, CQRS (Command Query Responsibility Segregation) là những mô hình phổ biến trong kiến trúc Microservices.
+
+---
+
+#### **3. Ví dụ về Microservices và Database Patterns:**
 
 ```typescript
 // users.module.ts
@@ -83,4 +106,8 @@ export class UsersModule {}
 // Mỗi module có thể có cơ sở dữ liệu riêng
 ```
 
+---
+
 Thông qua việc triển khai Sharding, Replication và áp dụng kiến trúc Microservices cùng với TypeORM trong NestJS, bạn có thể tăng cường khả năng mở rộng và thiết kế kiến trúc linh hoạt cho ứng dụng của mình.
+
+---
