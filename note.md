@@ -56,12 +56,12 @@ tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái
 
 liệt kê những bài tập về javascript cho phần nội dung sau ở mức nâng cao
 
-phân tích và trình bày về câu hỏi phỏng vấn javascript sau và giúp tôi trả lời nó 1 cách chuyên nghiệp khi được người phỏng vấn hỏi, có thể nêu ví dụ cụ thể nếu có
+phân tích và trình bày về câu hỏi phỏng vấn Amazon EC2 sau và giúp tôi trả lời nó 1 cách chuyên nghiệp khi được người phỏng vấn hỏi, có thể nêu ví dụ cụ thể nếu có bằng ts
 
 tôi muốn 1 bài viết về nội dung sau, nội dung thể hiện các câu hỏi phỏng vấn cho các developer ở cấp độ senior
 
 tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ junior về javascript để ôn tập chuẩn bị cho phỏng vấn
-tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ senior về javascript để ôn tập chuẩn bị cho phỏng vấn xoay quanh nội dung sau
+tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ senior về Amazon EC2 để ôn tập chuẩn bị cho phỏng vấn xoay quanh nội dung sau
 
 
 Các chủ đề về Performance Optimization và Cost Management có thể sẽ được hỏi lúc phỏng vấn web developer ở level senior

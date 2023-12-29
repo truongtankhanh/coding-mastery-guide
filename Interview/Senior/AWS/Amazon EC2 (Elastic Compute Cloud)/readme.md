@@ -1,4 +1,4 @@
-Tất nhiên, dưới đây là một bài viết về các câu hỏi phỏng vấn cho các developer ở cấp độ senior liên quan đến Amazon EC2 (Elastic Compute Cloud):
+Dưới đây là một bài viết về các câu hỏi phỏng vấn cho các developer ở cấp độ senior liên quan đến Amazon EC2 (Elastic Compute Cloud):
 
 ---
 
