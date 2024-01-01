@@ -24,17 +24,33 @@ trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, cod
 
 ### Learn:
 
-tôi muốn học về react hooks với typescript từ cơ bản đến nâng cao
+tôi muốn học về nextjs từ cơ bản đến nâng cao
 
-tôi muốn học react hooks với typescript cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học nextjs cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục cần thiết để học
 
-tôi muốn học react hooks với typescript cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học nextjs cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục cần thiết để học
 
-tôi muốn học react hooks với typescript cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học nextjs cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục cần thiết để học
 
-tôi muốn học nội dung reactjs với typescript sau cho developer ở mức cơ bản
+tôi muốn học nội dung nextjs sau cho developer ở mức cơ bản
 
-trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về reactjs với typescript cho nội dung sau
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về nextjs cho nội dung sau
+
+liệt kê những bài tập về reactjs với typescript cho phần nội dung sau ở mức nâng cao
+
+### Learn .net:
+
+tôi muốn học và thực hành .net trên vscode hệ điều hành macos từ cơ bản đến nâng
+
+tôi muốn học và thực hành .net trên vscode hệ điều hành macos cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục cần thiết để học
+
+tôi muốn học và thực hành .net trên vscode hệ điều hành macos cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục cần thiết để học
+
+tôi muốn học và thực hành .net trên vscode hệ điều hành macos cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục cần thiết để học
+
+tôi muốn học nội dung và thực hành .net trên vscode hệ điều hành macos sau cho developer ở mức cơ bản
+
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về và thực hành .net trên vscode hệ điều hành macos cho nội dung sau
 
 liệt kê những bài tập về reactjs với typescript cho phần nội dung sau ở mức nâng cao
 
