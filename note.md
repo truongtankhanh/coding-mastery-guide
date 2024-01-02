@@ -38,20 +38,22 @@ trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví
 
 liệt kê những bài tập về reactjs với typescript cho phần nội dung sau ở mức nâng cao
 
+giải bài tập về cấu trúc dữ liệu sau, phân tích rõ yêu cầu bài toán(input/output), ngữ cảnh áp dụng cấu trúc dữ liệu này, cách giải và code (nếu có, ưu tiên dùng c++/js/ts)
+
 ### Learn:
 
-tôi muốn 1 bài viết học về nodejs thật chi tiết
+tôi muốn 1 bài viết học về laravel thật chi tiết
 
-tôi muốn học về nodejs cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học về laravel cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về nodejs cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học về laravel cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về nodejs cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học về laravel cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học nội dung về javascript sau cho developer ở mức cơ bản
-tôi muốn học nội dung về javascript sau cho developer ở mức cơ bản
+tôi muốn học nội dung sau về laravel cho developer ở mức cơ bản
 
-trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về javascript cho nội dung sau ở mức trung cấp
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về laravel cho nội dung sau ở mức trung cấp
+
 tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết cho nội dung sau ở mức trung cấp
 
 liệt kê những bài tập về javascript cho phần nội dung sau ở mức nâng cao
