@@ -39,9 +39,4 @@ Tất cả các mục chính để học TypeScript ở mức cơ bản có th�
    - Cấu hình TypeScript Compiler (tsconfig).
    - Sử dụng TypeScript với các framework phổ biến như Angular, React hoặc Node.js.
 
-8. **Tài nguyên học tập:**
-   - TypeScript Handbook của trang chủ TypeScript.
-   - Khóa học trực tuyến trên các nền tảng như Udemy, Coursera, Pluralsight.
-   - Thực hành thông qua việc viết mã và dự án thực tế.
-
 Những điểm này sẽ cung cấp nền tảng cơ bản vững chắc về TypeScript cho các developer mới bắt đầu. Bắt đầu với cơ bản và từ từ tiếp cận các khái niệm phức tạp hơn sẽ giúp bạn hiểu sâu hơn về ngôn ngữ này.

@@ -34,7 +34,7 @@ tôi muốn học react hooks với typescript cho developer ở mức nâng cao
 
 tôi muốn học nội dung reactjs với typescript sau cho developer ở mức cơ bản
 
-trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về reactjs với typescript cho nội dung sau
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về typescript cho nội dung sau
 
 liệt kê những bài tập về reactjs với typescript cho phần nội dung sau ở mức nâng cao
 
