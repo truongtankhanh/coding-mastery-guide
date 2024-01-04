@@ -24,13 +24,13 @@ trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, cod
 
 ### Learn:
 
-tôi muốn học về react hooks với typescript từ cơ bản đến nâng cao
+tôi muốn học về reactjs từ cơ bản đến nâng cao
 
-tôi muốn học react hooks với typescript cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học reactjs cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học react hooks với typescript cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học reactjs cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học react hooks với typescript cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học reactjs cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
 
 tôi muốn học nội dung reactjs với typescript sau cho developer ở mức cơ bản
 
