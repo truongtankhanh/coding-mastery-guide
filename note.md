@@ -68,3 +68,9 @@ tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ sen
 
 Các chủ đề về Performance Optimization và Cost Management có thể sẽ được hỏi lúc phỏng vấn web developer ở level senior
 
+
+## learn sql:
+
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) và giải thích chi tiết về sql cho nội dung sau nếu có
+
+liệt kê các loại dữ liệu sql thuộc nhóm sau, trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, cho ví dụ cụ thể từng loại
