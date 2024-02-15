@@ -24,19 +24,19 @@ trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, cod
 
 ### Learn:
 
-tôi muốn học về reactjs từ cơ bản đến nâng cao
+tôi muốn học về docker từ cơ bản đến nâng cao
 
-tôi muốn học reactjs cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học docker cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục phải học
 
-tôi muốn học reactjs cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học docker cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục phải học
 
-tôi muốn học reactjs cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học docker cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục phải học
 
-tôi muốn học nội dung reactjs với typescript sau cho developer ở mức cơ bản
+tôi muốn học nội dung docker sau cho developer ở mức trung cấp
 
-trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về typescript cho nội dung sau
+trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về docker cho nội dung sau
 
-liệt kê những bài tập về reactjs với typescript cho phần nội dung sau ở mức nâng cao
+liệt kê những bài tập về docker với typescript cho phần nội dung sau ở mức nâng cao
 
 giải bài tập về cấu trúc dữ liệu sau, phân tích rõ yêu cầu bài toán(input/output), ngữ cảnh áp dụng cấu trúc dữ liệu này, cách giải và code (nếu có, ưu tiên dùng c++/js/ts)
 
@@ -58,12 +58,13 @@ tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái
 
 liệt kê những bài tập về javascript cho phần nội dung sau ở mức nâng cao
 
-phân tích và trình bày về câu hỏi phỏng vấn Amazon EC2 sau và giúp tôi trả lời nó 1 cách chuyên nghiệp khi được người phỏng vấn hỏi, có thể nêu ví dụ cụ thể nếu có bằng ts
+phân tích và trình bày về câu hỏi phỏng vấn ExpressJS sau và giúp tôi trả lời nó 1 cách chuyên nghiệp khi được người phỏng vấn hỏi, có thể nêu ví dụ cụ thể nếu có
 
 tôi muốn 1 bài viết về nội dung sau, nội dung thể hiện các câu hỏi phỏng vấn cho các developer ở cấp độ senior
 
 tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ junior về javascript để ôn tập chuẩn bị cho phỏng vấn
-tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ senior về Amazon EC2 để ôn tập chuẩn bị cho phỏng vấn xoay quanh nội dung sau
+
+tôi muốn các câu hỏi phỏng vấn cho các developer ở cấp độ senior về expressjs để ôn tập chuẩn bị cho phỏng vấn xoay quanh nội dung sau
 
 
 Các chủ đề về Performance Optimization và Cost Management có thể sẽ được hỏi lúc phỏng vấn web developer ở level senior
