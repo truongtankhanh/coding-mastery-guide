@@ -42,17 +42,17 @@ giải bài tập về cấu trúc dữ liệu sau, phân tích rõ yêu cầu b
 
 ### Learn:
 
-tôi muốn 1 bài viết học về html thật chi tiết
+tôi muốn 1 bài viết học về css thật chi tiết
 
-tôi muốn học về html cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học về css cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về html cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học về css cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về html cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học về css cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học nội dung sau về html cho developer ở mức cơ bản
+tôi muốn học nội dung sau về css cho developer ở mức cơ bản
 
-trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về html cho nội dung sau
+trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về css cho nội dung sau
 
 tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết cho nội dung sau ở mức trung cấp
 
