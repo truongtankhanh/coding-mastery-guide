@@ -42,17 +42,17 @@ giải bài tập về cấu trúc dữ liệu sau, phân tích rõ yêu cầu b
 
 ### Learn:
 
-tôi muốn 1 bài viết học về css thật chi tiết
+tôi muốn 1 bài viết học về sass thật chi tiết
 
-tôi muốn học về css cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học về sass cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về css cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học về sass cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về css cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học về sass cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học nội dung sau về css cho developer ở mức cơ bản
+tôi muốn học nội dung sau về sass cho developer ở mức cơ bản
 
-trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về css cho nội dung sau
+trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về sass cho nội dung sau
 
 tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết cho nội dung sau ở mức trung cấp
 
@@ -75,3 +75,11 @@ Các chủ đề về Performance Optimization và Cost Management có thể s�
 trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) và giải thích chi tiết về sql cho nội dung sau nếu có
 
 liệt kê các loại dữ liệu sql thuộc nhóm sau, trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, cho ví dụ cụ thể từng loại
+
+
+
+tôi muốn 1 bài viết về programming tricks dành cho typescript thật chi tiết
+
+programming tricks dành cho typescript ở mức cơ bản
+programming tricks dành cho typescript ở mức trung cấp
+programming tricks dành cho typescript ở mức nâng cao
