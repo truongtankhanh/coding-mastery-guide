@@ -42,17 +42,19 @@ giải bài tập về cấu trúc dữ liệu sau, phân tích rõ yêu cầu b
 
 ### Learn:
 
-tôi muốn 1 bài viết học về sass thật chi tiết
+tôi muốn 1 bài viết học về PostgresSQL thật chi tiết
 
-tôi muốn học về sass cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
+tôi muốn học về các hàm/lệnh query trong PostgresSQL cho developer ở mức cơ bản: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về sass cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
+tôi muốn học về PostgresSQL cho developer ở mức trung cấp: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học về sass cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
+tôi muốn học về PostgresSQL cho developer ở mức nâng cao: chỉ liệt kê tất cả các mục chính
 
-tôi muốn học nội dung sau về sass cho developer ở mức cơ bản
+tôi muốn học nội dung sau về PostgresSQL
 
-trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về sass cho nội dung sau
+trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về PostgresSQL cho nội dung sau
+
+DATE/TIME Functions and Operators - 
 
 tôi muốn 1 bài viết học về nodejs và trình bày rõ ràng về khái niệm, ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết cho nội dung sau ở mức trung cấp
 
@@ -78,8 +80,10 @@ liệt kê các loại dữ liệu sql thuộc nhóm sau, trình bày rõ ràng 
 
 
 
-tôi muốn 1 bài viết về programming tricks dành cho typescript thật chi tiết
+tôi muốn 1 bài viết về programming tricks dành cho axios thật chi tiết
 
-programming tricks dành cho typescript ở mức cơ bản
-programming tricks dành cho typescript ở mức trung cấp
-programming tricks dành cho typescript ở mức nâng cao
+programming tricks dành cho axios ở mức cơ bản
+programming tricks dành cho axios ở mức trung cấp
+programming tricks dành cho axios ở mức nâng cao
+
+trình bày rõ ràng về khái niệm(nếu có), ngữ cảnh và cách sử dụng, ví dụ(lệnh/code) chi tiết về về programming tricks javascript sau
